@@ -1,0 +1,77 @@
+# Defensive .gitignore for landing repo — blocks any accidental source code commits
+# This repo should ONLY contain markdown docs and image/video assets.
+
+# Source code (block every major language used in the app)
+*.rs
+*.ts
+*.tsx
+*.js
+*.jsx
+*.mjs
+*.cjs
+*.svelte
+*.py
+*.go
+*.java
+*.c
+*.cpp
+*.h
+*.hpp
+
+# Config files that belong in the app repo
+Cargo.toml
+Cargo.lock
+package.json
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+tsconfig.json
+svelte.config.*
+vite.config.*
+tauri.conf.json
+wrangler.toml
+
+# Build / dependency directories
+src/
+src-tauri/
+target/
+node_modules/
+dist/
+build/
+.wrangler/
+.svelte-kit/
+
+# Secrets (never commit, anywhere)
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials*
+secrets*
+*.license
+
+# AI model files (too large, and may be licensed)
+*.gguf
+*.safetensors
+*.onnx
+*.bin
+*.ckpt
+*.pt
+*.pth
+
+# Data files
+*.db
+*.sqlite
+*.sqlite-*
+
+# Audio/large assets (only allow if deliberately added for landing page)
+# Uncomment to block: *.wav, *.mp3, *.flac
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
