@@ -6,15 +6,15 @@ By downloading, installing, or using Korokokok ("the Software"), you agree to th
 
 ## 1. Early Preview Release (v0.9)
 
-Korokokok v0.9 is a **free 7-day preview release**. No payment is taken, no license is sold during the Early Preview period. The terms below apply to both the v0.9 preview and future paid releases unless specifically noted.
+Korokokok v0.9 is a **free 14-day preview release**. No payment is taken, no license is sold during the Early Preview period. The terms below apply to both the v0.9 preview and future paid releases unless specifically noted.
 
 ## 2. License
 
-Korokokok is proprietary software. During the Early Preview, you receive a non-exclusive, non-transferable right to use the Software on your personal computers for the 7-day preview period. In future commercial releases (v1.0 onward), continued use of premium workspaces will require a valid license key obtained from the Korokokok team.
+Korokokok is proprietary software. During the Early Preview, you receive a non-exclusive, non-transferable right to use the Software on your personal computers for the 14-day preview period. In future commercial releases (v1.0 onward), continued use of premium workspaces will require a valid license key obtained from the Korokokok team.
 
 ## 3. Trial Period (v0.9 Early Preview)
 
-The software is fully functional for 7 days after first install. After the trial expires, premium workspaces (Editor, Visual, Narration, Music) lock. Free workspaces (Project Manager, Assembly Line, Tools Sandbox) remain available without restriction.
+The software is fully functional for 14 days after first install. After the trial expires, premium workspaces (Editor, Visual, Narration, Music) lock. Free workspaces (Project Manager, Assembly Line, Tools Sandbox) remain available without restriction.
 
 ## 4. Your Responsibilities
 
@@ -55,4 +55,4 @@ We may update these terms. Continued use of the Software after changes constitut
 
 ## Contact
 
-Questions: [hello@korokokok.app](mailto:hello@korokokok.app) or [korokokok.studio@gmail.com](mailto:korokokok.studio@gmail.com)
+Questions: [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com)

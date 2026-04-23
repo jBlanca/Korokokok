@@ -4,7 +4,7 @@
 
 Turn written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local.
 
-> This is a **7-day free preview release**. Full commercial version with licensing launches soon. No account required, no payment wall during the preview.
+> This is a **14-day free preview release**. Full commercial version with licensing launches soon. No account required, no payment wall during the preview.
 
 ![Korokokok Editor](assets/screenshot-editor.png)
 
@@ -53,16 +53,16 @@ Get the latest release from the [Releases page](https://github.com/jBlanca/Korok
 - **8 GB VRAM**: all core features work, including character-consistent image editing.
 - **16 GB+ VRAM**: all features at full resolution and speed.
 - AMD GPUs: TTS runs on CPU in this preview; GPU acceleration planned for a later release.
-- Models are downloaded on first run (~10–15 GB depending on features used). The installer itself is ~525 MB; it bundles everything needed to run on a broad range of NVIDIA drivers out of the box.
+- The installer itself is ~52 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
 
 ## Early Preview — what this release is
 
-This is Korokokok v0.9, a **free 7-day preview** of the full product. It's the first public build, shared while the commercial release is still in review.
+This is Korokokok v0.9, a **free 14-day preview** of the full product. It's the first public build, shared while the commercial release is still in review.
 
-- ✅ All features are unlocked for 7 days
+- ✅ All features are unlocked for 14 days
 - ✅ No account, no credit card, no sign-up
 - ⏸️ Auto-update is disabled in this preview (you'll need to download the next release manually when it's available)
-- ⏸️ After day 7, Editor / Visual / Narration / Music lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
+- ⏸️ After day 14, Editor / Visual / Narration / Music lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
 - 🚀 **Korokokok v1.0** with one-time purchase licensing is coming soon
 
 ### If you'd like to support development
@@ -71,12 +71,11 @@ While the paid release is being finalized, if Korokokok saved you time during th
 
 ### Get notified at v1.0 launch
 
-Email [hello@korokokok.app](mailto:hello@korokokok.app?subject=Korokokok%20v1.0%20launch%20waitlist) with the subject *"Korokokok v1.0 launch waitlist"* and I'll send a one-time heads-up when v1.0 ships, along with early-supporter discount pricing.
+Email [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com?subject=Korokokok%20v1.0%20launch%20waitlist) with the subject *"Korokokok v1.0 launch waitlist"* and I'll send a one-time heads-up when v1.0 ships, along with early-supporter discount pricing.
 
 ## Support
 
-- **General questions**: [hello@korokokok.app](mailto:hello@korokokok.app)
-- **Backup email**: [korokokok.studio@gmail.com](mailto:korokokok.studio@gmail.com)
+- **General questions**: [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com)
 - **Bug reports & feature requests**: [Open an issue](https://github.com/jBlanca/Korokokok/issues/new/choose)
 - **Common questions**: [FAQ](FAQ.md)
 

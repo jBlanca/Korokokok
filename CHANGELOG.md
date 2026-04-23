@@ -6,7 +6,7 @@ The project follows [Semantic Versioning](https://semver.org/). Pre-1.0 releases
 
 ## [0.9.0] — 2026-04-22 — Early Preview
 
-First public release. **Free 7-day preview** of the full product while the commercial v1.0 release is in preparation.
+First public release. **Free 14-day preview** of the full product while the commercial v1.0 release is in preparation.
 
 ### Highlights
 - Story import and scene segmentation (documents, PDFs, markdown)
@@ -21,7 +21,7 @@ First public release. **Free 7-day preview** of the full product while the comme
 - Auto-update is disabled — download new releases manually when they ship
 - No purchase flow yet — the Lemon Squeezy store will be live at v1.0
 - Optional Ko-fi support page at [ko-fi.com/korokokokstudio](https://ko-fi.com/korokokokstudio)
-- Waitlist: email hello@korokokok.app with subject "Korokokok v1.0 launch waitlist" for early-supporter pricing notice
+- Waitlist: email korokokok.storystudio@gmail.com with subject "Korokokok v1.0 launch waitlist" for early-supporter pricing notice
 
 ### Security & licensing
 - Proprietary EULA shown at install

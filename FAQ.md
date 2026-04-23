@@ -2,16 +2,16 @@
 
 ## What is Korokokok v0.9?
 
-Korokokok v0.9 is a **free 7-day Early Preview** of the full product. It's the first public build shared while the commercial release is still being finalized.
+Korokokok v0.9 is a **free 14-day Early Preview** of the full product. It's the first public build shared while the commercial release is still being finalized.
 
-- All features are unlocked for 7 days after install.
+- All features are unlocked for 14 days after install.
 - No account, no credit card, no sign-up required.
-- After day 7, the Editor / Visual / Narration / Music workspaces lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
+- After day 14, the Editor / Visual / Narration / Music workspaces lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
 - Auto-update is disabled in this preview — you'll download a new installer when v1.0 ships.
 
 ## When does the paid v1.0 launch?
 
-Soon. The commercial release with one-time purchase licensing is in preparation. Email [hello@korokokok.app](mailto:hello@korokokok.app?subject=Korokokok%20v1.0%20launch%20waitlist) with subject *"Korokokok v1.0 launch waitlist"* and we'll send a one-time heads-up when v1.0 is live, plus early-supporter discount pricing.
+Soon. The commercial release with one-time purchase licensing is in preparation. Email [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com?subject=Korokokok%20v1.0%20launch%20waitlist) with subject *"Korokokok v1.0 launch waitlist"* and we'll send a one-time heads-up when v1.0 is live, plus early-supporter discount pricing.
 
 ## Does Korokokok work offline?
 
@@ -41,14 +41,14 @@ Partially:
 
 If you only have an integrated GPU, narration and image generation still work but expect noticeably slower generation times.
 
-## What happens after the 7-day trial?
+## What happens after the 14-day trial?
 
 - **Project Manager**, **Assembly Line**, and **Tools Sandbox** stay free forever.
 - **Editor**, **Visual**, **Narration**, and **Music** workspaces lock until you install v1.0 with a valid license (when that ships).
 
 ## How large are the AI models?
 
-The installer itself is ~525 MB; it bundles everything needed to run on the broadest range of NVIDIA drivers out of the box. AI models download on first run and depend on which features you use — typically 10–15 GB total. The Downloads panel in Settings lets you pick which engines to install.
+The installer itself is ~52 MB. AI models and runtime components download on first use, only for the tools you choose to install — typically 10–15 GB total depending on which features you use. The Downloads panel in Settings lets you pick which engines to install.
 
 ## Does it support languages other than English?
 
@@ -76,7 +76,7 @@ If Korokokok has saved you time, you can drop a tip on [Ko-fi ☕](https://ko-fi
 
 ## How do I report a bug or request a feature?
 
-Open an issue on GitHub: [Bug Report](https://github.com/jBlanca/Korokokok/issues/new?template=bug_report.yml) or [Feature Request](https://github.com/jBlanca/Korokokok/issues/new?template=feature_request.yml). You can also email [hello@korokokok.app](mailto:hello@korokokok.app) or [korokokok.studio@gmail.com](mailto:korokokok.studio@gmail.com).
+Open an issue on GitHub: [Bug Report](https://github.com/jBlanca/Korokokok/issues/new?template=bug_report.yml) or [Feature Request](https://github.com/jBlanca/Korokokok/issues/new?template=feature_request.yml). You can also email [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com).
 
 ## Who built Korokokok?
 

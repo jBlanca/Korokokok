@@ -37,8 +37,8 @@ Story content, project files, generated assets, and voice recordings are stored 
 
 ## Waitlist email
 
-If you email us at [hello@korokokok.app](mailto:hello@korokokok.app) to join the v1.0 launch waitlist, we'll keep your email address privately and use it **once** to notify you when v1.0 ships with early-supporter discount pricing. You can ask to be removed at any time.
+If you email us at [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com) to join the v1.0 launch waitlist, we'll keep your email address privately and use it **once** to notify you when v1.0 ships with early-supporter discount pricing. You can ask to be removed at any time.
 
 ## Contact
 
-Questions about this policy: [hello@korokokok.app](mailto:hello@korokokok.app) or [korokokok.studio@gmail.com](mailto:korokokok.studio@gmail.com)
+Questions about this policy: [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com)
