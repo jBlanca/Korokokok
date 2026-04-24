@@ -53,7 +53,7 @@ Get the latest release from the [Releases page](https://github.com/jBlanca/Korok
 - **8 GB VRAM**: all core features work, including character-consistent image editing.
 - **16 GB+ VRAM**: all features at full resolution and speed.
 - AMD GPUs: TTS runs on CPU in this preview; GPU acceleration planned for a later release.
-- The installer itself is ~52 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
+- The installer itself is ~102 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
 
 ## Early Preview — what this release is
 
