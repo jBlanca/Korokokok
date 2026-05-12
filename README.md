@@ -1,5 +1,7 @@
 # Korokokok
 
+### 🌐 [korokokok.app](https://www.korokokok.app/)
+
 **Story Production Studio for Windows** — *Early Preview (v0.9.2)*
 
 Turn written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local.
@@ -8,7 +10,7 @@ Turn written stories into production-ready assets — AI-generated images, expre
 
 ## Download
 
-Get the latest release from the [Releases page](https://github.com/jBlanca/Korokokok/releases). Each release includes an installer (`.exe`) and its SHA-256 hash in the release notes.
+Get the latest release from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes an installer (`.exe`) and its SHA-256 hash in the release notes.
 
 ![Korokokok Studio](screenshots/studio-initial-screen.png)
 
