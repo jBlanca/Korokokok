@@ -6,11 +6,11 @@ Turn written stories into production-ready assets — AI-generated images, expre
 
 > This is a **14-day free preview release**. Full commercial version with licensing launches soon. No account required, no payment wall during the preview.
 
-![Korokokok Studio](screenshots/studio-initial-screen.png)
-
 ## Download
 
 Get the latest release from the [Releases page](https://github.com/jBlanca/Korokokok/releases). Each release includes an installer (`.exe`) and its SHA-256 hash in the release notes.
+
+![Korokokok Studio](screenshots/studio-initial-screen.png)
 
 ## Features
 
