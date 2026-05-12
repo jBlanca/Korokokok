@@ -48,7 +48,7 @@ If you only have an integrated GPU, narration and image generation still work bu
 
 ## How large are the AI models?
 
-The installer itself is ~102 MB. AI models and runtime components download on first use, only for the tools you choose to install — typically 10–15 GB total depending on which features you use. The Downloads panel in Settings lets you pick which engines to install.
+The installer itself is ~117 MB. AI models and runtime components download on first use, only for the tools you choose to install — typically 10–15 GB total depending on which features you use. The Downloads panel in Settings lets you pick which engines to install.
 
 ## Does it support languages other than English?
 

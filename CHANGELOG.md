@@ -4,6 +4,21 @@ All notable changes to Korokokok will be documented in this file.
 
 The project follows [Semantic Versioning](https://semver.org/). Pre-1.0 releases are Early Previews — feature-complete but not yet commercially released.
 
+## [0.9.2] — 2026-05-12 — Early Preview
+
+### Highlights
+- **14-day trial** (up from 7 days) — more breathing room to download models and explore
+- **Smaller installer** (~117 MB) — components you don't need on day one download on first use, only if you ask for that feature
+- **Smoother first-run setup** — entering Visual / Narration / Music opens a tool picker filtered to what's compatible with your hardware, with sizes and running totals shown upfront
+- **Hardware-aware setup wizard** — only lists components your machine can actually run; a Rescan button next to the Hardware heading lets you re-detect after upgrading your GPU
+- **Cleaner Settings → Downloads** — every installable AI tool listed by name with plain-language descriptions and sizes; install or uninstall individual tools without reinstalling the whole app
+- **Smarter Sandbox (Tools)** — empty states with a jump-to-Downloads button when a tool's model isn't installed; the Sandbox itself never triggers downloads
+- **Tighter System tab** — streamlined to detected GPUs, active GPU, and performance profile; redundant inventory removed
+- **Cleaner uninstall** — uninstaller asks whether to also delete downloaded models and generated content; defaults to keeping your data
+
+### Notes
+- v0.9.1 was retired and replaced by v0.9.2; only v0.9.2 is available on the Releases page
+
 ## [0.9.0] — 2026-04-22 — Early Preview
 
 First public release. **Free 14-day preview** of the full product while the commercial v1.0 release is in preparation.
