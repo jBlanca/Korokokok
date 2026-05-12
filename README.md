@@ -1,12 +1,12 @@
 # Korokokok
 
-**Story Production Studio for Windows** — *Early Preview (v0.9)*
+**Story Production Studio for Windows** — *Early Preview (v0.9.2)*
 
 Turn written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local.
 
 > This is a **14-day free preview release**. Full commercial version with licensing launches soon. No account required, no payment wall during the preview.
 
-![Korokokok Editor](assets/screenshot-editor.png)
+![Korokokok Studio](screenshots/studio-initial-screen.png)
 
 ## Download
 
@@ -15,28 +15,41 @@ Get the latest release from the [Releases page](https://github.com/jBlanca/Korok
 ## Features
 
 ### Image Generation
+
+[![Watch the image generation demo on YouTube](https://img.youtube.com/vi/UI1tsAFkTyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=UI1tsAFkTyU)
+
 - Generate illustrations from your story text with state-of-the-art local diffusion models
 - Character and location reference images for visual consistency across scenes
 - Background removal and interactive cutout tools
 
 ### Narration
+
+[![Watch the narration demo on YouTube](https://img.youtube.com/vi/CbjIpNsibRs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CbjIpNsibRs)
+
 - AI-powered narration with 60+ voices across 28 languages, plus expressive and multilingual engines
 - Voice cloning for character dialog — clone a voice from a short sample
 - Audio drama mode — narrator track with character voice overlays
 - Full voice direction and performance control
 
 ### Music
+
+[![Watch the music generation demo on YouTube](https://img.youtube.com/vi/N2EYaSXZqLs/maxresdefault.jpg)](https://www.youtube.com/watch?v=N2EYaSXZqLs)
+
 - Generate original AI soundtracks for your story
 - Style-guided composition with genre, mood, and instrumentation controls
 
 ### Story Tools
+
+![Story Editor](screenshots/story-editor-generated.png)
+
 - Import and segment stories into chapters and beats
 - AI-powered story analysis — characters, locations, visual prompts
 - Project management with entity tracking
 
-![Korokokok Welcome](assets/screenshot-welcome.png)
-
 ### Export
+
+![Assembly Line](screenshots/assembly-images.png)
+
 - Assembly Line workspace for packaging final assets
 - Export narration, images, music, and video
 
@@ -53,11 +66,11 @@ Get the latest release from the [Releases page](https://github.com/jBlanca/Korok
 - **8 GB VRAM**: all core features work, including character-consistent image editing.
 - **16 GB+ VRAM**: all features at full resolution and speed.
 - AMD GPUs: TTS runs on CPU in this preview; GPU acceleration planned for a later release.
-- The installer itself is ~102 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
+- The installer itself is ~117 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
 
 ## Early Preview — what this release is
 
-This is Korokokok v0.9, a **free 14-day preview** of the full product. It's the first public build, shared while the commercial release is still in review.
+This is Korokokok v0.9.2, a **free 14-day preview** of the full product. It's the first public build, shared while the commercial release is still in review.
 
 - ✅ All features are unlocked for 14 days
 - ✅ No account, no credit card, no sign-up
