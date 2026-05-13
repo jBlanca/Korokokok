@@ -2,15 +2,25 @@
 
 ### 🌐 [korokokok.app](https://www.korokokok.app/)
 
-**Story Production Studio for Windows** — *Early Preview (v0.9.2)*
+**Story Production Studio for Windows** — *Early Access (v0.9.2)*
 
-Turn written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local.
+Korokokok turns written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local on your own machine.
 
-> This is a **14-day free preview release**. Full commercial version with licensing launches soon. No account required, no payment wall during the preview.
+## Pricing — Early Access
+
+**$69 perpetual license** — one purchase, yours forever. No subscription.
+
+- Activate on up to 3 machines
+- Free upgrade to v1.0 (regular price $99)
+- All Early Access updates while in development
+
+**14-day free trial** built in — install, run, decide. No card up front, every feature unlocked. Buy at any time to keep your work going past day 14.
+
+[**Buy a license →**](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr)
 
 ## Download
 
-Get the latest release from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes an installer (`.exe`) and its SHA-256 hash in the release notes.
+Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes a SHA-256 hash in the release notes so you can verify the binary.
 
 ![Korokokok Studio](screenshots/studio-initial-screen.png)
 
@@ -67,26 +77,19 @@ Get the latest release from the [Releases page](https://github.com/jBlanca/Korok
 
 - **8 GB VRAM**: all core features work, including character-consistent image editing.
 - **16 GB+ VRAM**: all features at full resolution and speed.
-- AMD GPUs: TTS runs on CPU in this preview; GPU acceleration planned for a later release.
+- AMD GPUs: TTS runs on CPU in this Early Access build; GPU acceleration planned for a later release.
 - The installer itself is ~117 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
 
-## Early Preview — what this release is
+## Early Access — what this release is
 
-This is Korokokok v0.9.2, a **free 14-day preview** of the full product. It's the first public build, shared while the commercial release is still in review.
+This is Korokokok v0.9.2, the first public Early Access build. Buy now at the $69 perpetual price and get a free upgrade to v1.0 (regular $99) when it ships.
 
-- ✅ All features are unlocked for 14 days
-- ✅ No account, no credit card, no sign-up
-- ⏸️ Auto-update is disabled in this preview (you'll need to download the next release manually when it's available)
-- ⏸️ After day 14, Editor / Visual / Narration / Music lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
-- 🚀 **Korokokok v1.0** with one-time purchase licensing is coming soon
-
-### If you'd like to support development
-
-While the paid release is being finalized, if Korokokok saved you time during the preview you can [buy me a coffee on Ko-fi ☕](https://ko-fi.com/korokokokstudio). Completely optional — the preview is free either way.
-
-### Get notified at v1.0 launch
-
-Email [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com?subject=Korokokok%20v1.0%20launch%20waitlist) with the subject *"Korokokok v1.0 launch waitlist"* and I'll send a one-time heads-up when v1.0 ships, along with early-supporter discount pricing.
+- ✅ 14-day free trial — every feature unlocked, no card up front
+- ✅ Buy any time during or after the trial to keep working past day 14
+- ✅ Activate on up to 3 machines per license
+- ✅ Free upgrade to v1.0 + all Early Access updates while in development
+- ⏸️ Auto-update is disabled in this build — you'll download new releases manually until auto-update lands
+- ⏸️ After day 14 without a license, Editor / Visual / Narration / Music lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
 
 ## Support
 

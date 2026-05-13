@@ -2,20 +2,21 @@
 
 ## What is Korokokok v0.9?
 
-Korokokok v0.9 is a **free 14-day Early Preview** of the full product. It's the first public build shared while the commercial release is still being finalized.
+Korokokok v0.9.2 is the first public **Early Access** release. It ships as a $69 perpetual license with a built-in 14-day free trial.
 
-- All features are unlocked for 14 days after install.
-- No account, no credit card, no sign-up required.
-- After day 14, the Editor / Visual / Narration / Music workspaces lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
-- Auto-update is disabled in this preview — you'll download a new installer when v1.0 ships.
+- **14-day free trial** — install, run, decide. Every feature unlocked, no card required up front.
+- **$69 perpetual license** — buy at any time during or after the trial. Activate on up to 3 machines. [Buy a license](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr).
+- **Free upgrade to v1.0** (regular price $99) for every Early Access buyer.
+- After day 14 without a license, the Editor / Visual / Narration / Music workspaces lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
+- Auto-update is disabled in this build — you'll download new installers manually until auto-update lands.
 
-## When does the paid v1.0 launch?
+## When does v1.0 launch?
 
-Soon. The commercial release with one-time purchase licensing is in preparation. Email [korokokok.storystudio@gmail.com](mailto:korokokok.storystudio@gmail.com?subject=Korokokok%20v1.0%20launch%20waitlist) with subject *"Korokokok v1.0 launch waitlist"* and we'll send a one-time heads-up when v1.0 is live, plus early-supporter discount pricing.
+When it's ready. Every Early Access license includes a free upgrade to v1.0 (regular $99), plus all Early Access updates while v1.0 is in development. There's no separate waitlist — just buy at the Early Access price now and you're covered through v1.0.
 
 ## Does Korokokok work offline?
 
-Yes. All AI generation — images, narration, music — runs on your local GPU and CPU. After the initial model download, no internet connection is required. Even the v0.9 trial date is tracked locally; there's no online license check in this preview.
+Yes. All AI generation — images, narration, music — runs on your local GPU and CPU. After the initial model download, no internet connection is required. Trial day-count and license activation are checked at runtime; everything else stays local.
 
 ## Is my data sent anywhere?
 
@@ -37,14 +38,14 @@ Not currently. Korokokok is Windows-only at launch.
 Partially:
 
 - **Image generation** works on AMD/Intel GPUs (slightly slower than NVIDIA)
-- **Text-to-speech** runs on CPU on non-NVIDIA systems in this preview (GPU acceleration planned for a later release)
+- **Text-to-speech** runs on CPU on non-NVIDIA systems in this Early Access build (GPU acceleration planned for a later release)
 
 If you only have an integrated GPU, narration and image generation still work but expect noticeably slower generation times.
 
 ## What happens after the 14-day trial?
 
 - **Project Manager**, **Assembly Line**, and **Tools Sandbox** stay free forever.
-- **Editor**, **Visual**, **Narration**, and **Music** workspaces lock until you install v1.0 with a valid license (when that ships).
+- **Editor**, **Visual**, **Narration**, and **Music** workspaces lock until you [buy a license](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr) and activate it. You can buy at any time — your projects, settings, and downloaded models stay put.
 
 ## How large are the AI models?
 
@@ -58,7 +59,7 @@ The installer itself is ~117 MB. AI models and runtime components download on fi
 
 ## Why does Windows SmartScreen warn me when I install it?
 
-Because v0.9 isn't yet signed with a commercial code-signing certificate (~$200–400/year). SmartScreen warns on every unsigned app from an unknown publisher — it's not saying the software is malicious, it's saying "I don't have a reputation record for this publisher yet." A signed certificate is planned for around the v1.0 launch. Click **More info → Run anyway** to proceed.
+Because v0.9.2 isn't yet signed with a commercial code-signing certificate (~$200–400/year). SmartScreen warns on every unsigned app from an unknown publisher — it's not saying the software is malicious, it's saying "I don't have a reputation record for this publisher yet." A signed certificate is planned for around the v1.0 launch. Click **More info → Run anyway** to proceed.
 
 Every release includes a SHA-256 hash in its release notes so you can verify the binary yourself.
 
@@ -70,9 +71,9 @@ No. Indie apps without a code-signing certificate are sometimes flagged by heuri
 
 Yes — content you create is 100% yours. We claim no rights over your generated images, audio, or projects. Some bundled open-source models have their own output licensing terms — generally permissive for commercial use. Full attribution is in `THIRD_PARTY_LICENSES.txt` inside the installed app's `resources/` folder.
 
-## How do I support the project during the preview?
+## How do I support the project?
 
-If Korokokok has saved you time, you can drop a tip on [Ko-fi ☕](https://ko-fi.com/korokokokstudio). Fully optional — the preview is free either way.
+The most direct way is to [buy a license](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr) — Early Access purchases directly fund development through v1.0 and beyond. If you want to add an extra tip on top, [Ko-fi](https://ko-fi.com/korokokokstudio) is also there.
 
 ## How do I report a bug or request a feature?
 

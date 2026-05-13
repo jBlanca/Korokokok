@@ -1,20 +1,20 @@
 # Terms of Service
 
-_Last updated: 2026-04-22_
+_Last updated: 2026-05-13_
 
 By downloading, installing, or using Korokokok ("the Software"), you agree to these terms. The full End-User License Agreement (shown at install time) is the authoritative legal document; these terms are a public-facing summary.
 
-## 1. Early Preview Release (v0.9)
+## 1. Early Access Release (v0.9.2)
 
-Korokokok v0.9 is a **free 14-day preview release**. No payment is taken, no license is sold during the Early Preview period. The terms below apply to both the v0.9 preview and future paid releases unless specifically noted.
+Korokokok v0.9.2 is the first public **Early Access** release. It is sold as a $69 perpetual license through Polar and includes a built-in 14-day free trial. Every Early Access license includes a free upgrade to v1.0 (regular price $99) when it ships.
 
 ## 2. License
 
-Korokokok is proprietary software. During the Early Preview, you receive a non-exclusive, non-transferable right to use the Software on your personal computers for the 14-day preview period. In future commercial releases (v1.0 onward), continued use of premium workspaces will require a valid license key obtained from the Korokokok team.
+Korokokok is proprietary software. Continued use of premium workspaces beyond the 14-day trial requires a valid license key obtained through purchase. A single license permits activation on up to 3 personal computers belonging to the license holder. Licenses are non-exclusive and non-transferable.
 
-## 3. Trial Period (v0.9 Early Preview)
+## 3. Trial Period
 
-The software is fully functional for 14 days after first install. After the trial expires, premium workspaces (Editor, Visual, Narration, Music) lock. Free workspaces (Project Manager, Assembly Line, Tools Sandbox) remain available without restriction.
+The software is fully functional for 14 days after first install — no payment required to start the trial. After the trial expires, premium workspaces (Editor, Visual, Narration, Music) lock until a valid license is activated. Free workspaces (Project Manager, Assembly Line, Tools Sandbox) remain available without restriction at all times.
 
 ## 4. Your Responsibilities
 
@@ -27,7 +27,7 @@ The software is fully functional for 14 days after first install. After the tria
 
 We may release updates that add features, fix bugs, or change behavior. Updates are provided at our discretion and are not guaranteed for any specific timeframe.
 
-**v0.9 Early Preview does not auto-update.** When new versions ship, you'll need to download them manually. Auto-update will be enabled in a future release.
+**v0.9.2 does not auto-update.** When new versions ship, you'll need to download them manually. Auto-update will be enabled in a future release.
 
 ## 6. No Warranty
 
@@ -43,7 +43,7 @@ Your right to use the Software terminates automatically if you violate these ter
 
 ## 9. Voluntary Contributions
 
-During the Early Preview, users may optionally support development via [Ko-fi](https://ko-fi.com/korokokokstudio). These are **voluntary tips**, not purchases — they do not grant a license, activate any paid features, or create any contractual obligation. Tips are handled by Ko-fi under their own terms of service.
+In addition to license purchases, users may optionally drop a tip on [Ko-fi](https://ko-fi.com/korokokokstudio). Ko-fi contributions are **voluntary tips**, not purchases — they do not grant a license, activate any paid features, or create any contractual obligation. Tips are handled by Ko-fi under their own terms of service.
 
 ## 10. Governing Law
 

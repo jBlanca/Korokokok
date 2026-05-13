@@ -4,9 +4,10 @@ All notable changes to Korokokok will be documented in this file.
 
 The project follows [Semantic Versioning](https://semver.org/). Pre-1.0 releases are Early Previews — feature-complete but not yet commercially released.
 
-## [0.9.2] — 2026-05-12 — Early Preview
+## [0.9.2] — 2026-05-13 — Early Access
 
 ### Highlights
+- **Early Access pricing live** — $69 perpetual license via Polar, with 14-day free trial as the on-ramp; activates on up to 3 machines; includes free upgrade to v1.0 (regular $99)
 - **14-day trial** (up from 7 days) — more breathing room to download models and explore
 - **Smaller installer** (~117 MB) — components you don't need on day one download on first use, only if you ask for that feature
 - **Smoother first-run setup** — entering Visual / Narration / Music opens a tool picker filtered to what's compatible with your hardware, with sizes and running totals shown upfront
