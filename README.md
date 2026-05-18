@@ -6,21 +6,11 @@
 
 Korokokok turns written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local on your own machine.
 
-## Pricing — Early Access
-
-**$69 perpetual license** — one purchase, yours forever. No subscription.
-
-- Activate on up to 3 machines
-- Free upgrade to v1.0 (regular price $99)
-- All Early Access updates while in development
-
-**14-day free trial** built in — install, run, decide. No card up front, every feature unlocked. Buy at any time to keep your work going past day 14.
-
-[**Buy a license →**](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr)
-
 ## Download
 
 Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes a SHA-256 hash in the release notes so you can verify the binary.
+
+*Free 14-day trial — every feature unlocked, no account needed.*
 
 ![Korokokok Studio](screenshots/studio-initial-screen.png)
 
@@ -82,14 +72,19 @@ Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/
 
 ## Early Access — what this release is
 
-This is Korokokok v0.9.2, the first public Early Access build. Buy now at the $69 perpetual price and get a free upgrade to v1.0 (regular $99) when it ships.
+This is Korokokok v0.9.2, the first public Early Access build.
 
 - ✅ 14-day free trial — every feature unlocked, no card up front
-- ✅ Buy any time during or after the trial to keep working past day 14
 - ✅ Activate on up to 3 machines per license
-- ✅ Free upgrade to v1.0 + all Early Access updates while in development
+- ✅ All Early Access updates while in development
 - ⏸️ Auto-update is disabled in this build — you'll download new releases manually until auto-update lands
 - ⏸️ After day 14 without a license, Editor / Visual / Narration / Music lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
+
+## If you keep using it
+
+The 14-day trial unlocks everything. After that, a one-time **$69** keeps it yours — no subscription, no telemetry, no account. Includes a free upgrade to v1.0 (regular $99) when it ships.
+
+[Buy a license →](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr)
 
 ## Support
 
