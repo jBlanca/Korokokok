@@ -4,6 +4,11 @@ All notable changes to Korokokok will be documented in this file.
 
 The project follows [Semantic Versioning](https://semver.org/). Pre-1.0 releases are Early Previews — feature-complete but not yet commercially released.
 
+## [0.9.3] — 2026-05-21 — Early Access
+
+### Highlights
+- **Update check on launch** — the app now checks for new releases on startup and notifies you when one is available; installer download stays manual
+
 ## [0.9.2] — 2026-05-13 — Early Access
 
 ### Highlights

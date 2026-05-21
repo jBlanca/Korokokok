@@ -2,17 +2,17 @@
 
 ## What is Korokokok v0.9?
 
-Korokokok v0.9.2 is the first public **Early Access** release. It ships as a $69 perpetual license with a built-in 14-day free trial.
+Korokokok v0.9.3 is the current **Early Access** release — a fully-local Story Production Studio for Windows.
 
-- **14-day free trial** — install, run, decide. Every feature unlocked, no card required up front.
-- **$69 perpetual license** — buy at any time during or after the trial. Activate on up to 3 machines. [Buy a license](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr).
-- **Free upgrade to v1.0** (regular price $99) for every Early Access buyer.
-- After day 14 without a license, the Editor / Visual / Narration / Music workspaces lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
-- Auto-update is disabled in this build — you'll download new installers manually until auto-update lands.
+- All Early Access updates while v1.0 is in development
+- Project Manager, Assembly Line, and Tools Sandbox stay free forever
+- The app checks for new releases on launch and notifies you — installers are still downloaded manually from the Releases page
+
+Trial length, license activation, and pricing are shown inside the app on first run, and on the [purchase page](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr).
 
 ## When does v1.0 launch?
 
-When it's ready. Every Early Access license includes a free upgrade to v1.0 (regular $99), plus all Early Access updates while v1.0 is in development. There's no separate waitlist — just buy at the Early Access price now and you're covered through v1.0.
+When it's ready. Every Early Access license includes a free upgrade to v1.0, plus all Early Access updates while v1.0 is in development. There's no separate waitlist — buying during Early Access covers you through v1.0.
 
 ## Does Korokokok work offline?
 
@@ -42,10 +42,10 @@ Partially:
 
 If you only have an integrated GPU, narration and image generation still work but expect noticeably slower generation times.
 
-## What happens after the 14-day trial?
+## What unlocks with a license?
 
 - **Project Manager**, **Assembly Line**, and **Tools Sandbox** stay free forever.
-- **Editor**, **Visual**, **Narration**, and **Music** workspaces lock until you [buy a license](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr) and activate it. You can buy at any time — your projects, settings, and downloaded models stay put.
+- **Editor**, **Visual**, **Narration**, and **Music** workspaces require a license once the trial ends. You can [activate a license](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr) at any time — your projects, settings, and downloaded models stay put.
 
 ## How large are the AI models?
 
@@ -59,7 +59,7 @@ The installer itself is ~117 MB. AI models and runtime components download on fi
 
 ## Why does Windows SmartScreen warn me when I install it?
 
-Because v0.9.2 isn't yet signed with a commercial code-signing certificate (~$200–400/year). SmartScreen warns on every unsigned app from an unknown publisher — it's not saying the software is malicious, it's saying "I don't have a reputation record for this publisher yet." A signed certificate is planned for around the v1.0 launch. Click **More info → Run anyway** to proceed.
+Because v0.9.3 isn't yet signed with a commercial code-signing certificate (~$200–400/year). SmartScreen warns on every unsigned app from an unknown publisher — it's not saying the software is malicious, it's saying "I don't have a reputation record for this publisher yet." A signed certificate is planned for around the v1.0 launch. Click **More info → Run anyway** to proceed.
 
 Every release includes a SHA-256 hash in its release notes so you can verify the binary yourself.
 

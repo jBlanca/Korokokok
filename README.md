@@ -2,15 +2,13 @@
 
 ### 🌐 [korokokok.app](https://www.korokokok.app/)
 
-**Story Production Studio for Windows** — *Early Access (v0.9.2)*
+**Story Production Studio for Windows** — *Early Access (v0.9.3)*
 
 Korokokok turns written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local on your own machine.
 
 ## Download
 
 Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes a SHA-256 hash in the release notes so you can verify the binary.
-
-*Free 14-day trial — every feature unlocked, no account needed.*
 
 ![Korokokok Studio](screenshots/studio-initial-screen.png)
 
@@ -72,19 +70,11 @@ Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/
 
 ## Early Access — what this release is
 
-This is Korokokok v0.9.2, the first public Early Access build.
+This is Korokokok v0.9.3, the current Early Access build.
 
-- ✅ 14-day free trial — every feature unlocked, no card up front
-- ✅ Activate on up to 3 machines per license
-- ✅ All Early Access updates while in development
-- ⏸️ Auto-update is disabled in this build — you'll download new releases manually until auto-update lands
-- ⏸️ After day 14 without a license, Editor / Visual / Narration / Music lock. Project Manager, Assembly Line, and Tools Sandbox stay free forever.
-
-## If you keep using it
-
-The 14-day trial unlocks everything. After that, a one-time **$69** keeps it yours — no subscription, no telemetry, no account. Includes a free upgrade to v1.0 (regular $99) when it ships.
-
-[Buy a license →](https://buy.polar.sh/polar_cl_LD4BO6w75fCJkYiK4vjZgfnfp7PXZ3sZKxax71rN8wr)
+- All Early Access updates while in development
+- The app checks for new releases on launch and notifies you — installer download stays manual from the Releases page
+- Project Manager, Assembly Line, and Tools Sandbox stay free forever
 
 ## Support
 
