@@ -69,7 +69,7 @@ Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/
 - **8 GB VRAM**: all core features work, including character-consistent image editing.
 - **16 GB+ VRAM**: all features at full resolution and speed.
 - AMD GPUs: TTS runs on CPU in this Early Access build; GPU acceleration planned for a later release.
-- **macOS**: Apple Silicon (M1 or later) required. An Intel (x64) build is not available yet.
+- **macOS**: Apple Silicon (M1 or later) required — uses unified memory, no separate NVIDIA GPU. Developed and tested on a Mac Mini M1 with 8 GB unified memory; 8 GB is an experimental minimum (models run but slower, with tighter limits), and more memory is recommended for full speed and quality. No Intel (x64) build yet.
 - The installer itself is ~117 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
 
 ## Early Access — what this release is
