@@ -2,13 +2,16 @@
 
 ### 🌐 [korokokok.app](https://www.korokokok.app/)
 
-**Story Production Studio for Windows** — *Early Access (v0.9.3)*
+**Story Production Studio for Windows & macOS** — *Early Access*
 
 Korokokok turns written stories into production-ready assets — AI-generated images, expressive narration with character voices, and original soundtracks. Fully offline, fully local on your own machine.
 
 ## Download
 
 Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes a SHA-256 hash in the release notes so you can verify the binary.
+
+- **Windows** — `Korokokok_<version>_x64-setup.exe`
+- **macOS (Apple Silicon)** — `Korokokok_0.9.3_aarch64.dmg`. This Early Access build is not yet notarized, so on first launch macOS Gatekeeper will block it — right-click the app and choose **Open**, or allow it under **System Settings → Privacy & Security → Open Anyway**.
 
 ![Korokokok Studio](screenshots/studio-initial-screen.png)
 
@@ -66,6 +69,7 @@ Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/
 - **8 GB VRAM**: all core features work, including character-consistent image editing.
 - **16 GB+ VRAM**: all features at full resolution and speed.
 - AMD GPUs: TTS runs on CPU in this Early Access build; GPU acceleration planned for a later release.
+- **macOS**: Apple Silicon (M1 or later) required. An Intel (x64) build is not available yet.
 - The installer itself is ~117 MB. AI models and runtime components download on first use, only for the tools you install (~10–15 GB total depending on which features you use).
 
 ## Early Access — what this release is
