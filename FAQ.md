@@ -2,7 +2,7 @@
 
 ## What is Korokokok v0.9?
 
-Korokokok v0.9.3 is the current **Early Access** release — a fully-local Story Production Studio for Windows.
+Korokokok v0.9.4 is the current **Early Access** release — a fully-local Story Production Studio for Windows and macOS (Apple Silicon).
 
 - All Early Access updates while v1.0 is in development
 - Project Manager, Assembly Line, and Tools Sandbox stay free forever

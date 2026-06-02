@@ -11,7 +11,7 @@ Korokokok turns written stories into production-ready assets — AI-generated im
 Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/releases), or visit [korokokok.app](https://www.korokokok.app/). Each release includes a SHA-256 hash in the release notes so you can verify the binary.
 
 - **Windows** — `Korokokok_<version>_x64-setup.exe`
-- **macOS (Apple Silicon)** — `Korokokok_0.9.3_aarch64.dmg`. This Early Access build is not yet notarized, so on first launch macOS Gatekeeper will block it — right-click the app and choose **Open**, or allow it under **System Settings → Privacy & Security → Open Anyway**.
+- **macOS (Apple Silicon)** — `Korokokok_0.9.4_aarch64.dmg`. This Early Access build is not yet notarized, so on first launch macOS Gatekeeper will block it — right-click the app and choose **Open**, or allow it under **System Settings → Privacy & Security → Open Anyway**.
 
 ![Korokokok Studio](screenshots/studio-initial-screen.png)
 
@@ -74,7 +74,7 @@ Get the installer from the [Releases page](https://github.com/jBlanca/Korokokok/
 
 ## Early Access — what this release is
 
-This is Korokokok v0.9.3, the current Early Access build.
+This is Korokokok v0.9.4, the current Early Access build. (v0.9.4 is a macOS fix release; the Windows installer remains the 0.9.3 build.)
 
 - All Early Access updates while in development
 - The app checks for new releases on launch and notifies you — installer download stays manual from the Releases page

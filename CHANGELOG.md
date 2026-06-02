@@ -4,6 +4,17 @@ All notable changes to Korokokok will be documented in this file.
 
 The project follows [Semantic Versioning](https://semver.org/). Pre-1.0 releases are Early Previews — feature-complete but not yet commercially released.
 
+## [0.9.4] — 2026-06-02 — Early Access
+
+macOS fix release. (The Windows installer remains the 0.9.3 build.)
+
+### Fixed
+- **Prompts step no longer hangs or fails with an "LLM not available" error** — the Prompts step now starts the language model automatically (like the other AI steps already did), so prompt generation works reliably; this was most common on 8 GB Macs, where the model gets unloaded between steps to free memory
+- **Clearer message when no language model is installed** — a plain prompt to install a text model from Settings → Downloads, instead of a confusing internal error
+
+### Improved
+- **App version is now shown in the About window** — both the macOS *About Korokokok* menu and the in-app *Help → About*; the version was removed from the title bar
+
 ## [0.9.3] — 2026-05-21 — Early Access
 
 ### Highlights
